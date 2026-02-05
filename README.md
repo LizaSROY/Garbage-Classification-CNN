@@ -81,12 +81,12 @@ The CNN model is based on a **LeNet-style design**, consisting of:
 
 ## Model Performance
 
-| Metric       |      Result |
-|--------------|-------------|
-| Training Accuracy| **87%** |
-| Testing Accuracy | **70%** |
-| Total Epochs     | **30**  |
-| Optimizer        | Adam    |
+| Metric           |      Result |
+|------------------|-------------|
+| Training Accuracy|   **87%**   |
+| Testing Accuracy |   **70%**   |
+| Total Epochs     |   **30**    |
+| Optimizer        |   Adam      |
 
 The results indicate that the model learned useful patterns from the dataset but still faces generalization challenges due to dataset size and class similarity.
 
@@ -124,7 +124,7 @@ Upload the notebook into Google Colab and run all cells.
 
 # Files in this Repository
 
-Garbage.ipynb : Full implementation (data preprocessing, training, evaluation)
+Garbage-CNN.ipynb : Full implementation (data preprocessing, training, evaluation)
 
 # Future Improvements
 
