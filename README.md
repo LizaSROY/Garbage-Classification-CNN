@@ -32,6 +32,7 @@ This project uses the **TrashNet dataset**, containing **2527 images** across **
 
 Dataset size: **2527 images**  
 Number of classes: **6**
+Download: https://drive.google.com/drive/folders/1rG9LdLHOr8HejgyQPH55A4Hs7rMrURjA?usp=sharing
 
 ---
 
